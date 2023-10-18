@@ -27,3 +27,13 @@
 ['INFO ]2023-10-17 15:29:58,332(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
 ['INFO ]2023-10-17 15:29:58,359(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
 ['INFO ]2023-10-17 15:30:12,800(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-10-17 22:17:56,422(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-10-17 22:17:56,444(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-10-17 22:18:43,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-10-17 22:18:53,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-10-17 22:18:53,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-10-17 22:24:36,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-10-17 22:24:36,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-10-17 22:24:58,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-10-17 22:25:08,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-10-17 22:25:08,870(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
