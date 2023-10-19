@@ -6,7 +6,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.Singin_PF;
 
-public class Signin_Toolshop {
+public class Signin_SD {
 	public Singin_PF signin;
 	
 	/*@Given("User should open the browser")
