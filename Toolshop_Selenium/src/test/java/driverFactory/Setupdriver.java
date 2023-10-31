@@ -11,11 +11,11 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import utilities.LoggerLoad;
 
 public class Setupdriver {
-private static WebDriver driver;
+public static WebDriver driver;
 static ResourceBundle rb;  //for reading properties file
 static String br;   //to store browser name
 
-private static WebDriver GetDriver() {
+public static WebDriver GetDriver() {
 	rb=ResourceBundle.getBundle("Config");
 	br=rb.getString("browser");
 	if (br.equals("CHROME")) {
@@ -52,6 +52,7 @@ public static  WebDriver Driver() {
 public static void SetupDriver() {
 	if(driver==null) {
 		GetDriver();
+		//LoggerLoad.info("setup driver");
 	}
 	
 }
@@ -63,4 +64,5 @@ public static void SetupDriver() {
 		
 	}
 }
+
 
