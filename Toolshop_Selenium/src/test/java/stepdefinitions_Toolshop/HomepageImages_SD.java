@@ -248,7 +248,7 @@ public class HomepageImages_SD {
 
 	@Then("product is in stock or not")
 	public void product_is_in_stock_or_not() {
-		LoggerLoad.info("user will know if there are any products out of Stock");
+		LoggerLoad.info("user will know if the product is in stock or not");
 	}
 
 }
