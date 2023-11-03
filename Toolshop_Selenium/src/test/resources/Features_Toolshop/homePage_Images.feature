@@ -47,16 +47,18 @@ Feature: Homepage center verifications
     When user views the product images for proper size and resolution
     Then the image should have proper size and resolution 
     
- # @home_8
-  #Scenario: verify alternative text for images
-   # Given user is in homepage
-    #When user views the product images for alternative text
-    #Then each image should have descriptive alternative text
+ 
 
-	@home_9
+	@home_8
   	Scenario: verify for product availability
      Given user is in homepage
      When user views the product images for stock availability
      Then product is in stock or not
+     
+   @home_9
+  	Scenario: Validate Next/>>
+     Given user is in homepage
+     When User click Next or >>
+     Then User able to see next page 
 
   

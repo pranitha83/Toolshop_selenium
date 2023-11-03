@@ -764,3 +764,285 @@
 ['INFO ]2023-11-01 21:31:17,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
 ['INFO ]2023-11-01 21:31:17,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
 ['INFO ]2023-11-01 21:31:17,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 17:15:13,226(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:13,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 17:15:18,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:28,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:15:28,577(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 17:15:28,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:28,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:30,449(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 17:15:30,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:30,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:30,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 17:15:30,713(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:30,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:30,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 17:15:30,941(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:30,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:31,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:15:31,180(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 17:15:31,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:31,196(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:32,365(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 17:15:32,372(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:32,373(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:35,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:35,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:47,156(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:47,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 17:15:51,162(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:55,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:15:55,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 17:15:55,695(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:55,696(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:57,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 17:15:57,902(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:57,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:58,107(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 17:15:58,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:58,114(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:58,315(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 17:15:58,322(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:58,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:58,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:15:58,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 17:15:58,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:58,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:15:59,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 17:15:59,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:15:59,715(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:16:04,007(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 17:16:04,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:16:04,014(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:16:04,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,091(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,109(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,193(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,216(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:16:04,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 17:24:26,813(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:26,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 17:24:30,785(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:37,410(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:24:37,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 17:24:37,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:37,426(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:39,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 17:24:39,338(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:39,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:39,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 17:24:39,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:39,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:39,796(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 17:24:39,804(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:39,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:40,044(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 17:24:40,046(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 17:24:40,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:40,059(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:41,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 17:24:41,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:41,243(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:44,694(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 17:24:44,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 17:24:44,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 17:24:44,770(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,846(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product details :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-11-02 17:24:44,867(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,903(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,924(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 17:24:44,948(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 21:10:18,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:18,744(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 21:10:22,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:28,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:10:28,026(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 21:10:28,039(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:28,039(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:29,920(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 21:10:29,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:29,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:30,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 21:10:30,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:30,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:30,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 21:10:30,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:30,349(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:30,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:10:30,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 21:10:30,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:30,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:31,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 21:10:31,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:31,839(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:34,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 21:10:34,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:34,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:10:35,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,055(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,081(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,127(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product details :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-11-02 21:10:35,150(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,201(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,220(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-None of the products are out of stock
+['INFO ]2023-11-02 21:10:35,237(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 21:10:35,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:10:35,296(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:36,673(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:36,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 21:27:40,475(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:43,077(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:27:43,078(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 21:27:43,103(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:43,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:45,103(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 21:27:45,111(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:45,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:45,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 21:27:45,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:45,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:45,561(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 21:27:45,572(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:45,574(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:45,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:27:45,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 21:27:45,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:45,838(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:47,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 21:27:47,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:47,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:51,774(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 21:27:51,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:51,782(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:27:51,863(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Combination Pliers
+$14.15
+['INFO ]2023-11-02 21:27:51,907(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Pliers
+$12.01
+['INFO ]2023-11-02 21:27:51,944(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Bolt Cutters
+$48.41
+['INFO ]2023-11-02 21:27:51,985(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is out of Stock :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-11-02 21:27:52,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Slip Joint Pliers
+$9.17
+['INFO ]2023-11-02 21:27:52,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer with Shock Reduction Grip
+$13.41
+['INFO ]2023-11-02 21:27:52,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Hammer
+$12.58
+['INFO ]2023-11-02 21:27:52,145(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer
+$11.48
+['INFO ]2023-11-02 21:27:52,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Thor Hammer
+$11.14
+['INFO ]2023-11-02 21:27:52,194(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 21:27:52,198(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:27:52,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:27,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:27,124(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 21:41:29,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:33,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:41:33,234(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 21:41:33,248(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:33,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:34,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 21:41:34,868(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:34,871(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:35,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 21:41:35,015(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:35,016(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:35,157(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 21:41:35,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:35,163(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:35,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:41:35,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 21:41:35,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:35,306(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:36,333(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 21:41:36,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:36,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:40,481(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 21:41:40,508(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:40,509(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:41:40,557(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Combination Pliers
+$14.15
+['INFO ]2023-11-02 21:41:40,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Pliers
+$12.01
+['INFO ]2023-11-02 21:41:40,598(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Bolt Cutters
+$48.41
+['INFO ]2023-11-02 21:41:40,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is out of Stock :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-11-02 21:41:40,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Slip Joint Pliers
+$9.17
+['INFO ]2023-11-02 21:41:40,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer with Shock Reduction Grip
+$13.41
+['INFO ]2023-11-02 21:41:40,684(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Hammer
+$12.58
+['INFO ]2023-11-02 21:41:40,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer
+$11.48
+['INFO ]2023-11-02 21:41:40,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Thor Hammer
+$11.14
+['INFO ]2023-11-02 21:41:40,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 21:41:40,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:41:40,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:45:55,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:45:55,212(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-11-02 21:45:58,008(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:02,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:46:02,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-11-02 21:46:02,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:02,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:03,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-11-02 21:46:03,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:03,713(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:03,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-11-02 21:46:03,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:03,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:03,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-11-02 21:46:03,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:03,993(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:04,119(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-11-02 21:46:04,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-11-02 21:46:04,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:04,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:05,205(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-11-02 21:46:05,209(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:05,210(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:08,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-11-02 21:46:08,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:08,359(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-11-02 21:46:08,409(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Combination Pliers
+$14.15
+['INFO ]2023-11-02 21:46:08,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Pliers
+$12.01
+['INFO ]2023-11-02 21:46:08,451(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Bolt Cutters
+$48.41
+['INFO ]2023-11-02 21:46:08,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is out of Stock :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-11-02 21:46:08,495(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Slip Joint Pliers
+$9.17
+['INFO ]2023-11-02 21:46:08,521(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer with Shock Reduction Grip
+$13.41
+['INFO ]2023-11-02 21:46:08,543(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Hammer
+$12.58
+['INFO ]2023-11-02 21:46:08,564(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer
+$11.48
+['INFO ]2023-11-02 21:46:08,586(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Thor Hammer
+$11.14
+['INFO ]2023-11-02 21:46:08,590(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-11-02 21:46:08,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-11-02 21:46:08,594(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/

@@ -220,27 +220,20 @@ public class HomepageImages_SD {
 	}
 
 //@home_8
-	public void user_views_the_product_images_for_alternative_text() {
-
-	}
-
-	@Then("each image should have descriptive alternative text")
-	public void each_image_should_have_descriptive_alternative_text() {
-
-	}
-
-//@home_9
 	@When("user views the product images for stock availability")
 	public void user_views_the_product_images_for_stock_availability() {
 
-		List<WebElement> stock_availability = hp.stock_availability();
+		//List<WebElement> stock_availability = hp.stock_availability();
+		List<WebElement> stock_availability = hp.availability();
 		for (WebElement l : stock_availability) {
 			if (l.getText().contains("Out of stock")) {
-				Assert.assertTrue(true);
+				//System.out.println(l.getText());
+				//Assert.assertTrue(true);
+				LoggerLoad.info("product is out of Stock :" + l.getText());
 			}
 
 			else {
-				LoggerLoad.info("None of the products are out of stock");
+				LoggerLoad.info("product is in stock " + l.getText());
 			}
 		}
 
@@ -250,5 +243,27 @@ public class HomepageImages_SD {
 	public void product_is_in_stock_or_not() {
 		LoggerLoad.info("user will know if the product is in stock or not");
 	}
+	
+	//@home_9
+
+@When("User click Next or >>")
+public void user_click_next_or() {
+	List<WebElement> pages = hp.page_Navigation();
+	for(WebElement e: pages) {
+		System.out.println("1."+e.getText());
+		if(!e.getText().equalsIgnoreCase("Next")) {
+			e.click();
+		}
+		else
+		{
+			System.out.println("we are on last page :" + e.getText());
+		}
+	}
+}
+
+@Then("User able to see next page")
+public void user_able_to_see_next_page() {
+    
+}
 
 }

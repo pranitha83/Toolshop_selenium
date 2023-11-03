@@ -22,7 +22,11 @@ public class HomePageImages_PF {
 	List<WebElement> product_price;
 	@FindBy(xpath = "//div[@class=\"card-footer\"]/span[@data-test=\"out-of-stock\"]")
 	List<WebElement> imageFooter_stock;
+	@FindBy(xpath = "//a[@class = \"card\"]")
+	List<WebElement> entireImage;
 	
+	@FindBy(xpath = "//ul[@class=\"ngx-pagination responsive\"]/li")
+	List<WebElement> pages;
 	
 	public List<WebElement> displayImages() {
 		return images;
@@ -37,4 +41,12 @@ public class HomePageImages_PF {
 		return imageFooter_stock;
 		
 	}
+	public List<WebElement> availability() {
+		return entireImage;
+		
+	}
+	public List<WebElement> page_Navigation() {
+		return pages;
+	}
+	
 }
