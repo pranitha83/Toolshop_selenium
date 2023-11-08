@@ -22,7 +22,8 @@ import io.cucumber.java.en.When;
 import pageObjects.HomepageHeader_PF;
 import utilities.Context;
 import utilities.LoggerLoad;
-
+import java.net.HttpURLConnection;
+import java.net.URL;
 public class HomePageHeader_Toolshop {
 	 HomepageHeader_PF home_pheader;
 	Context context;
@@ -87,6 +88,7 @@ public class HomePageHeader_Toolshop {
 		assertEquals("Practice Software Testing - Toolshop - v5.0", Homepage_Title);
 		
 	}
+	//Invalid URL
 	@When("User gives the invalid Toolshop URL")
 	public void user_gives_the_invalid_toolshop_url() throws InterruptedException {
 		
@@ -102,14 +104,36 @@ public class HomePageHeader_Toolshop {
 	   assertEquals(Title, "404 Not Found");
 	  
 	}
+	//Bad request
+	
+	@When("User send the bad request")
+	public void user_send_the_bad_request() {
+		 Context.OpenPage("https://practicesoftwaretesting.com/%");
+	}
 	
 	  @Then("HTTP response {int}")
 	public void http_response(Integer int1) {
 		 // String Title1 = Setupdriver.GetTitle();
 		  String Title1 = Context.GetTitle();
 		  System.out.println(Title1);
-		  assertEquals(Title1, "400 bad request");;
+		  assertEquals(Title1, "400 Bad Request");;
+		
+		  
+		  
 		 
+
+					
+				/*	try {
+						URL uri = new URL("https://practicesoftwaretesting.com/%");
+						HttpURLConnection connection = (HttpURLConnection) uri.openConnection();
+						connection.setRequestMethod("HEAD"); // takes the URL;
+						int responseCode = connection.getResponseCode();
+						System.out.println(responseCode);
+					} catch (IOException e) {
+						
+						e.printStackTrace();
+					}*/
+					
 	}
 
 	@Then("User should see correct spellings in all fields")

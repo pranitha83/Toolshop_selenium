@@ -1,13 +1,18 @@
 package driverFactory;
 
 import java.time.Duration;
+import java.util.ArrayList;
 import java.util.ResourceBundle;
+import java.util.Set;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import utilities.Context;
 import utilities.LoggerLoad;
 
 public class Setupdriver {
@@ -30,7 +35,9 @@ public static WebDriver GetDriver() {
 	}
 	driver.manage().deleteAllCookies();
 	driver.manage().window().maximize();
-	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+
 	return driver;
 }
 public static void OpenPage(String url) {
@@ -63,6 +70,24 @@ public static void SetupDriver() {
 		}
 		
 	}
+	public static String url() {
+		return driver.getCurrentUrl();
+		
+	}
+	public static String windowhandle() {
+		return driver.getWindowHandle();
+	}
+	public static Set<String> windowhandles() {
+		return driver.getWindowHandles();
+		
+	}
+	public static WebDriver handles(int windowno) {
+		ArrayList<String> tabs = new ArrayList<String>(Context.windowhandles());
+		
+		return driver.switchTo().window(tabs.get(windowno));
+		
+	}
 }
+	
 
 

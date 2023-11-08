@@ -15,7 +15,7 @@ Feature: Home page Verification
   @Tag3
   Scenario: Verify for broken link
     Given User launch the browser
-    When User gives the invalid Toolshop URL
+    When User send the bad request 
     Then HTTP response 400
 
   @Tag4
