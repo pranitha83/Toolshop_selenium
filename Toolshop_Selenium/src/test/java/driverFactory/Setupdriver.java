@@ -1,6 +1,7 @@
 package driverFactory;
 
 import java.time.Duration;
+
 import java.util.ResourceBundle;
 
 import org.openqa.selenium.WebDriver;
@@ -11,7 +12,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import utilities.LoggerLoad;
 
 public class Setupdriver {
-private static WebDriver driver;
+public static WebDriver driver;
 static ResourceBundle rb;  //for reading properties file
 static String br;   //to store browser name
 
