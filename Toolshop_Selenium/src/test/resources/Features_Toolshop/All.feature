@@ -1,5 +1,5 @@
 
-Feature: HomePage verification
+Feature: HomePage leftside verification
 
 Scenario: Verify Home sort dropdown is present
 Given user is in the home page
