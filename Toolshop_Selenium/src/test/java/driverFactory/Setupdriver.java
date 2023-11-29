@@ -32,7 +32,7 @@ private static WebDriver GetDriver() {
 	}
 	driver.manage().deleteAllCookies();
 	driver.manage().window().maximize();
-	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
+	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	return driver;
 }
 public static void OpenPage(String url) {
