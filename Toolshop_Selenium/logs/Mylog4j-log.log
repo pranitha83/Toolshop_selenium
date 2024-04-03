@@ -1547,3 +1547,482 @@
 ['INFO ]2023-11-29 10:04:43,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
 ['INFO ]2023-11-29 10:04:45,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
 ['INFO ]2023-11-29 10:04:45,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:05:55,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:05:55,142(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:06:59,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:06:59,866(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:06,786(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:06,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:06,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:07,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:07,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:07,126(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:14,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:14,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:14,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:16,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:16,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:16,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:22,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:22,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:22,816(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:28,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:28,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:28,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:35,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:35,232(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:35,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:41,156(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:41,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:41,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:41,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:45,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:45,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:48,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:48,729(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:55,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:55,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:55,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:55,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:55,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:55,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:56,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:56,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:56,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:57,842(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:57,842(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:57,842(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:58,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:58,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:58,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:58,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:58,689(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:07:58,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:07:58,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:07:58,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:00,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:13,091(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:13,091(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:15,104(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:25,946(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:25,946(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:27,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:33,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:33,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:35,595(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:41,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:41,255(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:43,278(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:48,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:48,927(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:50,931(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:08:57,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:08:57,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:08:59,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:01,067(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:09:01,104(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:01,106(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:03,111(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:06,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:06,990(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:09,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:14,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:14,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:16,807(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:18,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:18,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:20,397(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/home
+['INFO ]2023-12-12 21:09:21,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:21,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:23,021(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/%
+['INFO ]2023-12-12 21:09:23,821(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:23,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:25,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:26,346(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:26,347(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:28,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:28,455(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:28,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:30,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:30,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:30,532(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:32,541(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:32,616(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:32,616(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:34,625(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:34,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:34,676(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:36,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:37,173(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:37,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:39,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:39,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:39,247(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:41,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:41,308(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:41,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:43,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:43,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:43,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:45,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:45,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:45,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:47,446(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:47,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:47,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:47,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:47,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-12-12 21:09:47,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User able to see the product images in Homepage
+['INFO ]2023-12-12 21:09:47,739(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:47,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:47,749(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:50,169(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is directed to specific product detail page
+['INFO ]2023-12-12 21:09:50,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:50,188(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:50,188(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:50,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each image has a descriptive text as label
+['INFO ]2023-12-12 21:09:50,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:50,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:50,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:50,481(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-each product has price in $ value
+['INFO ]2023-12-12 21:09:50,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:50,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:50,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:50,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Total number images present in homepage are matched with number in requirement
+['INFO ]2023-12-12 21:09:50,675(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the total products present has matched with x number
+['INFO ]2023-12-12 21:09:50,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:50,685(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:50,685(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:52,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-No broken image links with status404 Not Found
+['INFO ]2023-12-12 21:09:52,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:52,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:52,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:58,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-image sizes and resolution are with in specified range
+['INFO ]2023-12-12 21:09:58,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:58,555(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:58,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:09:58,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Combination Pliers
+$14.15
+['INFO ]2023-12-12 21:09:58,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Pliers
+$12.01
+['INFO ]2023-12-12 21:09:58,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Bolt Cutters
+$48.41
+['INFO ]2023-12-12 21:09:58,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is out of Stock :Long Nose Pliers
+Out of stock
+$14.24
+['INFO ]2023-12-12 21:09:58,704(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Slip Joint Pliers
+$9.17
+['INFO ]2023-12-12 21:09:58,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer with Shock Reduction Grip
+$13.41
+['INFO ]2023-12-12 21:09:58,743(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Hammer
+$12.58
+['INFO ]2023-12-12 21:09:58,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Claw Hammer
+$11.48
+['INFO ]2023-12-12 21:09:58,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-product is in stock Thor Hammer
+$11.14
+['INFO ]2023-12-12 21:09:58,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user will know if the product is in stock or not
+['INFO ]2023-12-12 21:09:58,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:09:58,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:09:58,898(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:14:57,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:14:57,350(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:15:33,968(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:15:36,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:09,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:09,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:11,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:22,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:22,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:24,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:30,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:30,486(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:32,489(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:38,147(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:38,148(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:40,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:45,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:45,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:47,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:16:56,918(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:16:56,923(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:16:58,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:17:00,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:17:00,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:17:00,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:17:02,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:17:16,390(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:17:16,393(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:17:18,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:17:37,890(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:24:46,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:24:46,705(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:25:00,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:25:04,724(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:25:22,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:25:22,892(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:25:24,916(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:25:37,673(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:25:37,673(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:25:39,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:25:45,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:25:45,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:25:47,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:25:53,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:25:53,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:25:55,015(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:26:00,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:26:00,648(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:26:02,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:26:05,919(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:26:05,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:26:07,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:26:10,108(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:26:10,116(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:26:10,117(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:26:12,124(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:26:15,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:26:15,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:26:17,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:26:24,457(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:32:40,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:32:40,394(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:32:59,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:33:01,310(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:33:31,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:33:31,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:33:33,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:33:40,955(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:33:40,989(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:33:40,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:33:43,009(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:33:49,387(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:33:49,388(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:33:51,399(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:33:51,661(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:33:57,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:33:57,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:33:59,250(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:34:04,932(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:34:04,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:34:06,953(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:34:15,875(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:34:15,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:34:17,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:34:20,610(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:34:20,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:34:20,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:34:22,634(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:34:27,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:34:27,811(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:34:29,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:34:38,022(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:43:40,532(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:43:40,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:43:51,844(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:43:53,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:09,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:09,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:11,836(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:19,041(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:44:19,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:19,060(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:21,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:21,212(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:44:24,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:24,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:26,375(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:26,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:44:32,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:32,106(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:34,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:34,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:44:34,285(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:44:39,805(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:39,812(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:41,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:49,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:49,837(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:51,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:44:55,661(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:44:55,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:44:55,687(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:44:57,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:45:01,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:45:01,323(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:45:03,339(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:45:10,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:48:22,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:48:22,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:48:27,925(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:48:29,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:48:44,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:48:44,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:48:46,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:48:53,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:48:53,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:48:53,531(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:48:55,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:48:55,706(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:48:56,999(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:48:57,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:48:59,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:48:59,109(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:49:04,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:49:04,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:49:06,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:49:06,862(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:49:06,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:49:12,301(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:49:12,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:49:14,313(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:49:17,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:49:17,600(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:49:19,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:49:20,313(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:49:20,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:49:20,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:49:22,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:49:24,770(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:49:24,772(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:49:26,789(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:49:28,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 21:55:03,641(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:03,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 21:55:08,680(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:55:10,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:55:25,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:25,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:55:27,234(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:55:34,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:55:34,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:34,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:55:36,395(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:55:38,581(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:55:39,878(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:39,878(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:55:41,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:55:43,998(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 21:55:49,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:49,321(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:55:51,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:55:53,487(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:55:53,510(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 21:55:59,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:55:59,027(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:56:01,035(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:56:04,303(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:56:04,304(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:56:06,314(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:56:07,344(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 21:56:07,358(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:56:07,359(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:56:09,382(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:56:11,314(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 21:56:11,319(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 21:56:13,324(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 21:56:16,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 22:01:05,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:01:05,776(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 22:01:10,404(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:01:12,444(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:01:26,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:01:26,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:01:28,239(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:01:35,401(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:01:35,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:01:35,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:01:37,434(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:01:39,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:01:40,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:01:40,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:01:42,969(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:01:45,118(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:01:50,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:01:50,458(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:01:52,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:01:54,636(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:01:54,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:02:00,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:02:00,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:02:02,146(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:02:07,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:02:07,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:02:09,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:02:10,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 22:02:10,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:02:10,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:02:12,726(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:02:15,122(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:02:15,123(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:02:17,140(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:02:20,417(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 22:06:48,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:06:48,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 22:06:54,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:06:56,327(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:10,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:10,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:12,538(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:19,682(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:07:19,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:19,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:21,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:23,895(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:07:24,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:24,557(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:26,570(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:28,670(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:07:34,049(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:34,050(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:36,058(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:38,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:07:38,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:07:43,698(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:43,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:45,719(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:48,991(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:48,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:51,014(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:51,695(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 22:07:51,717(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:51,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:53,734(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:07:55,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:07:55,548(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:07:57,565(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:08:03,596(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown
+['INFO ]2023-12-12 22:21:00,629(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:21:00,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter getbrowser
+['INFO ]2023-12-12 22:21:56,049(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:21:58,238(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:22:18,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:22:18,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:22:20,673(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:22:28,013(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:22:28,036(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:22:28,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:22:30,043(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:22:33,328(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:22:33,854(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:22:33,880(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:22:35,897(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:22:38,042(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-3
+['INFO ]2023-12-12 22:22:44,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:22:44,343(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:22:46,350(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:22:48,535(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:22:48,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-1
+['INFO ]2023-12-12 22:22:54,000(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:22:54,001(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:22:56,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:23:12,264(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:23:12,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:23:14,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:23:28,457(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-https://practicesoftwaretesting.com/#/privacy
+['INFO ]2023-12-12 22:23:28,470(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:23:28,472(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:23:30,479(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:23:49,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 0
+['INFO ]2023-12-12 22:23:49,714(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-before order 1
+['INFO ]2023-12-12 22:23:51,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-current page :https://practicesoftwaretesting.com/#/
+['INFO ]2023-12-12 22:24:21,910(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-enter teardown

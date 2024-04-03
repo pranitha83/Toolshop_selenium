@@ -13,29 +13,35 @@ Feature: Home footer verification
 
   Scenario: Validate Next/>>
     Given User is in  Home Page
+    When User scrolls down in home page
     When User click Next or >>
     Then User able to see next page
 
   Scenario: Validate Last page
     Given User is in  Home Page
+    When User scrolls down in home page
     When User click Last page
     Then User able to see last page with Next and >> buttons are disabled
 
   Scenario: Validate Previous/<<
     Given User is in  Home Page
+    When User scrolls down in home page
     When User click Previous or <<
     Then User able to see previous page
 
   Scenario: Validate Start page
     Given User is in  Home Page
+    When User scrolls down in home page
     When User click Start page
     Then User able to see first page with disabled Previous,<<
-@Git
+
+  @Git
   Scenario: Validate the Github link
     Given User is in  Home Page
     When User click github link
     Then User able to see the github page opens in another browser tab
-@Policy
+
+  @Policy
   Scenario: Validate Privacy Policy
     Given User is in  Home Page
     When User click Privacy Policy

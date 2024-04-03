@@ -18,6 +18,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import driverFactory.Setupdriver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -43,8 +44,8 @@ public HomeFooter_SD(Context context) {
 
 	@When("User scrolls down in home page")
 	public void user_scrolls_down_in_home_page() throws InterruptedException {
-	  JavascriptExecutor jse = (JavascriptExecutor)context.driver;
-	  jse.executeScript("window.scrollBy(0,200)");
+	  JavascriptExecutor jse = (JavascriptExecutor)Setupdriver.driver;
+	  jse.executeScript("window.scrollBy(0,500)");
 	 Thread.sleep(2000);
 	}
 

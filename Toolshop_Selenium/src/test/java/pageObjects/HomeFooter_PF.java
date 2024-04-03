@@ -16,11 +16,11 @@ public class HomeFooter_PF {
 @FindBy(xpath = "//ul[@class='ngx-pagination responsive']/li") List<WebElement> no_pages;
 @FindBy(xpath = "//*[text()='This is a DEMO application (']") WebElement Footer;
 @FindBy(className = "pagination-next") WebElement pagination_next;
-@FindBy(xpath = "//*[contains(@class,'current')]") WebElement currentpage;
-@FindBy(xpath = "//span[text()='3']") WebElement Lastpage;
-@FindBy(xpath = "//span[@aria-disabled='true' and  text()=' Next ']") WebElement nextbtndisabled;
+@FindBy(xpath = "//*[contains(@class,'page-item active')]") WebElement currentpage;
+@FindBy(xpath = "//a[text()='3']") WebElement Lastpage;
+@FindBy(xpath = "//li[@class='page-item disabled']") WebElement nextbtndisabled;
 @FindBy(className = "pagination-previous") WebElement previousbtn;
-@FindBy(xpath = "//li//span[text()='1']") WebElement startpage;
+@FindBy(xpath = "//a[text()='1']") WebElement startpage;
 @FindBy(xpath = "//span[@aria-disabled='true' and text()=' Previous ']") WebElement previousbtndisabled;
 @FindBy(linkText = "GitHub repo") WebElement Githubrepo;
 @FindBy(linkText = "Privacy Policy") WebElement Privacypolicy;
@@ -75,14 +75,14 @@ public class HomeFooter_PF {
     	Lastpage.click();
     }
     public void nextbtndisabled() {
-    	nextbtndisabled.click();
-		String Disable = nextbtndisabled.getAttribute("aria-disabled");
+    	nextbtndisabled.isEnabled();
+		//String Disable = nextbtndisabled.getAttribute("aria-hidden");
 		//System.out.println(Disable);
-		if(Disable.equals("true")) {
-			System.out.println("The next button is disabled");
-		}else {
-			System.out.println("The next button is enabled");
-		}
+		//if(Disable.equals("true")) {
+			//System.out.println("The next button is disabled");
+		//}else {
+			//System.out.println("The next button is enabled");
+		//}
     	
     }
    /* public boolean nextdisabled() {
