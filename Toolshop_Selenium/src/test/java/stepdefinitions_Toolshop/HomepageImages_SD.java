@@ -246,6 +246,27 @@ public class HomepageImages_SD {
 	
 	//@home_9
 
+
+@When("User click Next or >>")
+public void user_click_next_or() {
+	List<WebElement> pages = hp.page_Navigation();
+	for(WebElement e: pages) {
+		System.out.println("1."+e.getText());
+		if(!e.getText().equalsIgnoreCase("Next")) {
+			e.click();
+		}
+		else
+		{
+			System.out.println("we are on last page :" + e.getText());
+		}
+	}
+}
+
+@Then("User able to see next page")
+public void user_able_to_see_next_page() {
+    
+}
+
 //@When("User click Next or >>")
 //public void user_click_next_or() {
 //	List<WebElement> pages = hp.page_Navigation();
@@ -265,5 +286,6 @@ public class HomepageImages_SD {
 //public void user_able_to_see_next_page() {
 //    
 //}
+
 
 }

@@ -55,10 +55,10 @@ Feature: Homepage center verifications
      When user views the product images for stock availability
      Then product is in stock or not
      
-   #@home_9
-  #	Scenario: Validate Next/>>
-     #Given user is in homepage
-     #When User click Next or >>
-     #Then User able to see next page 
+   @home_9
+  	Scenario: Validate Next/>>
+     Given user is in homepage
+     When User click Next or >>
+     Then User able to see next page 
 
   
